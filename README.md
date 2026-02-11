@@ -2,7 +2,9 @@
 
 # Installation
 1. Install the latest version of [Build APK](https://github.com/MentalBlank/Messenger-Revanced/releases/latest).
-2. Use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.
+
+<del>2. Use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.</del>
+3. Use Magisk or Ksu Manager to get update or flash the module manually
 
 ## Patches
 - Disable the indicator while typing a message.
